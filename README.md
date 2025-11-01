@@ -69,3 +69,5 @@ By default OpenWrt's offloading is disabled, but if you ever happen to enable it
    uci set network.@device[0].flow_offloading_hw=0
    uci commit network
    ```
+
+Thanks to Asvio, qosmio and ACWifiDude.
